@@ -1,4 +1,4 @@
-# todo-list
+# todo-app-list
 
 ## Project setup
 ```
@@ -22,4 +22,3 @@ npm run lint
 
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
-# todo-app-list
